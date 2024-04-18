@@ -1,4 +1,4 @@
-package edu.javacourse.city.exception;
+package edu.javacourse.city.dao.exception;
 
 public class PersonCheckException extends Exception
 {

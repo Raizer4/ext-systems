@@ -1,4 +1,4 @@
-package edu.javacourse.city.domain;
+package edu.javacourse.city.dao.domain;
 
 public class PersonResponse {
 

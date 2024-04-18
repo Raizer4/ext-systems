@@ -1,15 +1,13 @@
 package edu.javacourse.city.dao;
 
-import edu.javacourse.city.domain.PersonRequest;
-import edu.javacourse.city.domain.PersonResponse;
-import edu.javacourse.city.exception.PersonCheckException;
-import org.checkerframework.checker.units.qual.A;
+import edu.javacourse.PersonCheckDao;
+import edu.javacourse.city.dao.domain.PersonRequest;
+import edu.javacourse.city.dao.domain.PersonResponse;
+import edu.javacourse.city.dao.exception.PersonCheckException;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.time.LocalDate;
-
-import static org.junit.Assert.*;
 
 public class PersonCheckDaoTest {
 

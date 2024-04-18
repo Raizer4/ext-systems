@@ -1,9 +1,9 @@
-package edu.javacourse.city.dao;
+package edu.javacourse;
 
 import java.sql.*;
-import edu.javacourse.city.domain.PersonRequest;
-import edu.javacourse.city.domain.PersonResponse;
-import edu.javacourse.city.exception.PersonCheckException;
+import edu.javacourse.city.dao.domain.PersonRequest;
+import edu.javacourse.city.dao.domain.PersonResponse;
+import edu.javacourse.city.dao.exception.PersonCheckException;
 
 public class PersonCheckDao
 {
