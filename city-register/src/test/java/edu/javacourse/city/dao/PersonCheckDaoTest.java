@@ -44,6 +44,7 @@ public class PersonCheckDaoTest {
 
         PersonCheckDao dao = new PersonCheckDao();
         PersonResponse ps = dao.checkPerson(pr);
+
         Assert.assertTrue(ps.isRegistered());
         Assert.assertFalse(ps.isTemporal());
     }

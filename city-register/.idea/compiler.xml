@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="city-register" options="--add-modules java.base,java.sql" />
+      <module name="city-register" options="" />
     </option>
   </component>
 </project>

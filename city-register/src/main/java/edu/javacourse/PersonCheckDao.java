@@ -61,7 +61,6 @@ public class PersonCheckDao
             }
 
 
-
            ResultSet rs = stmt.executeQuery();
 
            if (rs.next()){
