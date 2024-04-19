@@ -1,9 +1,8 @@
 package edu.javacourse.city.dao;
 
-import edu.javacourse.PersonCheckDao;
-import edu.javacourse.city.dao.domain.PersonRequest;
-import edu.javacourse.city.dao.domain.PersonResponse;
-import edu.javacourse.city.dao.exception.PersonCheckException;
+import edu.javacourse.city.domain.PersonRequest;
+import edu.javacourse.city.domain.PersonResponse;
+import edu.javacourse.city.exception.PersonCheckException;
 import org.junit.Assert;
 import org.junit.Test;
 

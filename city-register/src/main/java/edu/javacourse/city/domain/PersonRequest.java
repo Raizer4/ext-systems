@@ -1,4 +1,4 @@
-package edu.javacourse.city.dao.domain;
+package edu.javacourse.city.domain;
 
 import java.time.LocalDate;
 
